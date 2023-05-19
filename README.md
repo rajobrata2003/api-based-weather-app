@@ -1,8 +1,8 @@
 # api-based-weather-app
-Weather Forecast GUI
+## Weather Forecast GUI
 This Python program utilizes the tkinter library to create a graphical user interface (GUI) that displays weather forecasts. It leverages the OpenWeather API to retrieve accurate and up-to-date weather information for various locations.
 
-Features:
+## Features:
 User-friendly interface with a visually appealing design
 Seamless integration with OpenWeather API for real-time weather data
 Supports weather forecasts for multiple locations
