@@ -25,3 +25,8 @@ This program utilizes the OpenWeather API to access accurate and reliable weathe
 
 Note:
 Ensure that you use the API responsibly and follow OpenWeather's usage guidelines.
+
+# Images
+![Untitled](https://github.com/rajobrata2003/api-based-weather-app/assets/35872390/1c941571-c9d5-4dc0-a31a-7b01f7178167)
+![Untitled2](https://github.com/rajobrata2003/api-based-weather-app/assets/35872390/f8558de6-867e-4afd-9440-2df073327961)
+
